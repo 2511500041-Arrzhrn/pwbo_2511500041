@@ -1,6 +1,6 @@
 <div class="container">
 <div class="jumbotron mt-4">
-  <h1 class="display-4">Selamat Databg di website saya</h1>
+  <h1 class="display-4">Selamat Datang di website saya</h1>
   <p class="lead">Halo, nama saya <?php echo $data['nama'];?></p>
   <hr class="my-4">
   <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
